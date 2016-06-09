@@ -25,6 +25,7 @@
 #include <sstream>
 #include <vector>
 #include <cmath>
+#include <cstdlib>
 
 #include "PCSpeaker.hpp"
 #include "token.hpp"
